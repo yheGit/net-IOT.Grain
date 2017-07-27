@@ -16,7 +16,8 @@ namespace Net66.Service.Controllers
 
         public string Index()
         {
-            return DateTime.Now.ToString();
+            string sss= DateTime.Now.ToString();
+            return sss;
         }
 
     }
