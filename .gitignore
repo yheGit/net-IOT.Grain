@@ -1,0 +1,8 @@
+﻿/RightsSys
+bin
+obj
+node_modules
+/Net66.Service/Log
+/Net66.Service/OutParamLog
+/Net66.Service/DebugLog
+/Net66.Service/Views/dist
